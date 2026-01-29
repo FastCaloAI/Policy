@@ -1,1 +1,1 @@
-FastCaloAI-policy
+FastCalo AI policy
